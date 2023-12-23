@@ -1,1 +1,2 @@
 This repository is created for finetuning of llama2 model in python dataset for text-to-code generation. llama2 finetuning and evaluation could be done using code in files llama2-finetuning-python.ipynb and llama2-evaluation-python.ipynb respectively. Dataset is available on Hugging face viz nadiamaqbool81/python_code_instructions_510_alpaca.
+![image](https://github.com/nadiaqazi/TextToCodeGeneration/assets/154707506/b506f1b2-3e19-4dd9-bb73-0371549e299a)
